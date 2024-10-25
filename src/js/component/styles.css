@@ -23,11 +23,11 @@ body {
 }
 
 .red-light {
-  background-color: red;
+  background-color: rgb(185, 8, 8);
 }
 
 .yellow-light {
-  background-color: yellow;
+  background-color: rgb(207, 207, 69);
 }
 
 .green-light {
@@ -36,11 +36,11 @@ body {
 
 /* Brighter versions of the lights */
 .red-light-bright {
-  background-color: #ff6666; /* Brighter red */
+  background-color: #fd1d1d; /* Brighter red */
 }
 
 .yellow-light-bright {
-  background-color: #ffff66; /* Brighter yellow */
+  background-color: #ffff00; /* Brighter yellow */
 }
 
 .green-light-bright {
