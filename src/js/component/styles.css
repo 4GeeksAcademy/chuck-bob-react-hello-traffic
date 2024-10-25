@@ -37,14 +37,17 @@ body {
 /* Brighter versions of the lights */
 .red-light-bright {
   background-color: #fd1d1d; /* Brighter red */
+  box-shadow: 0 0 20px 10px rgba(255, 255, 255, 0.5);
 }
 
 .yellow-light-bright {
   background-color: #ffff00; /* Brighter yellow */
+  box-shadow: 0 0 20px 10px rgba(255, 255, 255, 0.5);
 }
 
 .green-light-bright {
   background-color: #66ff66; /* Brighter green */
+  box-shadow: 0 0 20px 10px rgba(255, 255, 255, 0.5);
 }
 
 /* Styling for top-center */

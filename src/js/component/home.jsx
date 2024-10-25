@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import "./styles.css";
 
 const Home = () => {
+
   const [activeLight, setActiveLight] = useState(null);
 
   const handleLightClick = (light) => {
